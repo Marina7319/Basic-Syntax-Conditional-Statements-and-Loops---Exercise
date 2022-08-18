@@ -1,0 +1,14 @@
+C:\Users\Marina\source\repos\Exercise\orders\bin\Debug\netcoreapp3.1\orders.exe
+C:\Users\Marina\source\repos\Exercise\orders\bin\Debug\netcoreapp3.1\orders.deps.json
+C:\Users\Marina\source\repos\Exercise\orders\bin\Debug\netcoreapp3.1\orders.runtimeconfig.json
+C:\Users\Marina\source\repos\Exercise\orders\bin\Debug\netcoreapp3.1\orders.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Exercise\orders\bin\Debug\netcoreapp3.1\orders.dll
+C:\Users\Marina\source\repos\Exercise\orders\bin\Debug\netcoreapp3.1\orders.pdb
+C:\Users\Marina\source\repos\Exercise\orders\obj\Debug\netcoreapp3.1\orders.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Exercise\orders\obj\Debug\netcoreapp3.1\orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Exercise\orders\obj\Debug\netcoreapp3.1\orders.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Exercise\orders\obj\Debug\netcoreapp3.1\orders.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Exercise\orders\obj\Debug\netcoreapp3.1\orders.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Exercise\orders\obj\Debug\netcoreapp3.1\orders.dll
+C:\Users\Marina\source\repos\Exercise\orders\obj\Debug\netcoreapp3.1\orders.pdb
+C:\Users\Marina\source\repos\Exercise\orders\obj\Debug\netcoreapp3.1\orders.genruntimeconfig.cache

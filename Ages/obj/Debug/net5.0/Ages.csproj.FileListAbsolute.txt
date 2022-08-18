@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Exercise\Ages\bin\Debug\net5.0\Ages.exe
+C:\Users\Marina\source\repos\Exercise\Ages\bin\Debug\net5.0\Ages.deps.json
+C:\Users\Marina\source\repos\Exercise\Ages\bin\Debug\net5.0\Ages.runtimeconfig.json
+C:\Users\Marina\source\repos\Exercise\Ages\bin\Debug\net5.0\Ages.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Exercise\Ages\bin\Debug\net5.0\Ages.dll
+C:\Users\Marina\source\repos\Exercise\Ages\bin\Debug\net5.0\ref\Ages.dll
+C:\Users\Marina\source\repos\Exercise\Ages\bin\Debug\net5.0\Ages.pdb
+C:\Users\Marina\source\repos\Exercise\Ages\obj\Debug\net5.0\Ages.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Exercise\Ages\obj\Debug\net5.0\Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Exercise\Ages\obj\Debug\net5.0\Ages.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Exercise\Ages\obj\Debug\net5.0\Ages.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Exercise\Ages\obj\Debug\net5.0\Ages.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Exercise\Ages\obj\Debug\net5.0\Ages.dll
+C:\Users\Marina\source\repos\Exercise\Ages\obj\Debug\net5.0\ref\Ages.dll
+C:\Users\Marina\source\repos\Exercise\Ages\obj\Debug\net5.0\Ages.pdb
+C:\Users\Marina\source\repos\Exercise\Ages\obj\Debug\net5.0\Ages.genruntimeconfig.cache

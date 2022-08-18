@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\bin\Debug\net5.0\PadawanEquipment.exe
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\bin\Debug\net5.0\PadawanEquipment.deps.json
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\bin\Debug\net5.0\PadawanEquipment.runtimeconfig.json
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\bin\Debug\net5.0\PadawanEquipment.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\bin\Debug\net5.0\PadawanEquipment.dll
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\bin\Debug\net5.0\ref\PadawanEquipment.dll
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\bin\Debug\net5.0\PadawanEquipment.pdb
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\obj\Debug\net5.0\PadawanEquipment.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\obj\Debug\net5.0\PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\obj\Debug\net5.0\PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\obj\Debug\net5.0\PadawanEquipment.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\obj\Debug\net5.0\PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\obj\Debug\net5.0\PadawanEquipment.dll
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\obj\Debug\net5.0\ref\PadawanEquipment.dll
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\obj\Debug\net5.0\PadawanEquipment.pdb
+C:\Users\Marina\source\repos\Exercise\PadawanEquipment\obj\Debug\net5.0\PadawanEquipment.genruntimeconfig.cache

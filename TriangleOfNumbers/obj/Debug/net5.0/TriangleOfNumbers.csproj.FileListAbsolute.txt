@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.exe
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.deps.json
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.runtimeconfig.json
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.dll
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\bin\Debug\net5.0\ref\TriangleOfNumbers.dll
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.pdb
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.dll
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\obj\Debug\net5.0\ref\TriangleOfNumbers.dll
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.pdb
+C:\Users\Marina\source\repos\Exercise\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.genruntimeconfig.cache

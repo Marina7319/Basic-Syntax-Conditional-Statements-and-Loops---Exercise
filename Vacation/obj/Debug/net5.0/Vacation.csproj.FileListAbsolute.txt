@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Exercise\Vacation\bin\Debug\net5.0\Vacation.exe
+C:\Users\Marina\source\repos\Exercise\Vacation\bin\Debug\net5.0\Vacation.deps.json
+C:\Users\Marina\source\repos\Exercise\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.json
+C:\Users\Marina\source\repos\Exercise\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Exercise\Vacation\bin\Debug\net5.0\Vacation.dll
+C:\Users\Marina\source\repos\Exercise\Vacation\bin\Debug\net5.0\ref\Vacation.dll
+C:\Users\Marina\source\repos\Exercise\Vacation\bin\Debug\net5.0\Vacation.pdb
+C:\Users\Marina\source\repos\Exercise\Vacation\obj\Debug\net5.0\Vacation.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Exercise\Vacation\obj\Debug\net5.0\Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Exercise\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Exercise\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Exercise\Vacation\obj\Debug\net5.0\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Exercise\Vacation\obj\Debug\net5.0\Vacation.dll
+C:\Users\Marina\source\repos\Exercise\Vacation\obj\Debug\net5.0\ref\Vacation.dll
+C:\Users\Marina\source\repos\Exercise\Vacation\obj\Debug\net5.0\Vacation.pdb
+C:\Users\Marina\source\repos\Exercise\Vacation\obj\Debug\net5.0\Vacation.genruntimeconfig.cache

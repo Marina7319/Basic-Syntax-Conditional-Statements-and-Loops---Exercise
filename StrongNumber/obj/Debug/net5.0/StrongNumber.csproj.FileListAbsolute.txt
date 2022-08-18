@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Exercise\StrongNumber\bin\Debug\net5.0\StrongNumber.exe
+C:\Users\Marina\source\repos\Exercise\StrongNumber\bin\Debug\net5.0\StrongNumber.deps.json
+C:\Users\Marina\source\repos\Exercise\StrongNumber\bin\Debug\net5.0\StrongNumber.runtimeconfig.json
+C:\Users\Marina\source\repos\Exercise\StrongNumber\bin\Debug\net5.0\StrongNumber.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Exercise\StrongNumber\bin\Debug\net5.0\StrongNumber.dll
+C:\Users\Marina\source\repos\Exercise\StrongNumber\bin\Debug\net5.0\ref\StrongNumber.dll
+C:\Users\Marina\source\repos\Exercise\StrongNumber\bin\Debug\net5.0\StrongNumber.pdb
+C:\Users\Marina\source\repos\Exercise\StrongNumber\obj\Debug\net5.0\StrongNumber.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Exercise\StrongNumber\obj\Debug\net5.0\StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Exercise\StrongNumber\obj\Debug\net5.0\StrongNumber.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Exercise\StrongNumber\obj\Debug\net5.0\StrongNumber.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Exercise\StrongNumber\obj\Debug\net5.0\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Exercise\StrongNumber\obj\Debug\net5.0\StrongNumber.dll
+C:\Users\Marina\source\repos\Exercise\StrongNumber\obj\Debug\net5.0\ref\StrongNumber.dll
+C:\Users\Marina\source\repos\Exercise\StrongNumber\obj\Debug\net5.0\StrongNumber.pdb
+C:\Users\Marina\source\repos\Exercise\StrongNumber\obj\Debug\net5.0\StrongNumber.genruntimeconfig.cache
